@@ -1,6 +1,6 @@
 # Overview
 
-This document provides guidance for how departments can use electronic and digital signatures in internal and community-facing services during the COVID-19 emergency. This guidance clarifies that in most instances, electronic signatures are legally enforceable. So the law allows for use of these tools. And while there is no City policy that addresses electronic signatures, the law does not require adoption of a policy in order to make use of electronic signatures.  A policy will be developed at a later date to follow this guidance. 
+CTM offers this guidance to help departments use electronic and digital signatures in internal and community-facing services during the COVID-19 emergency. In most instances, electronic signatures are legally enforceable, so it's perfectly legal to use these tools. While there is currently no City policy that addresses electronic signatures, the law does not require adoption of a policy in order to make use of electronic signatures. A policy will be developed at a later date to follow this guidance. 
 
 During normal times, offering services online helps make services more accessible for Austin residents. But during the current COVID-19 emergency, departments are needing to offer services and transactions online as much as possible. Some departments have already adopted electronic or digital signatures, while others haven’t yet. CTM aims to support all City departments as they use and process online signatures during the COVID-19 emergency and beyond. 
 
