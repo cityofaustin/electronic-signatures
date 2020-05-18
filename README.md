@@ -1,8 +1,8 @@
 # Overview
 
-CTM developed this guidance to help City of Austin departments use electronic and digital signatures in internal and community-facing services during the COVID-19 emergency. In most instances, electronic signatures are legally enforceable, so it's perfectly legal to use these tools. While there is currently no City policy that addresses electronic signatures, the law does not require adoption of a policy in order to make use of electronic signatures. We'll develop a policy at a later date to follow this guidance. 
+Communications and Technology Management \(CTM\) developed this guidance to help City of Austin departments use electronic and digital signatures in internal and community-facing services during the COVID-19 emergency. In most instances, electronic signatures are legally enforceable, so it's perfectly legal to use these tools. While there is currently no City policy that addresses electronic signatures, the law does not require adoption of a policy in order to use electronic signatures. With your feedback, we'll develop a policy to follow this guidance at a later date. 
 
-During normal times, offering services online helps make services more accessible for Austin residents. But during the current COVID-19 emergency, departments need to offer services and transactions online as much as possible. Some departments have already adopted electronic or digital signatures, while others haven’t, yet. CTM aims to support all City departments as they use and process online signatures during the COVID-19 emergency and beyond. 
+No matter what else is going on, offering multiple ways to access services, including online, helps make services more accessible for Austin residents. But during the current COVID-19 emergency, departments need to offer services and transactions online as much as possible. Some departments have already adopted electronic or digital signatures, while others haven’t, yet. CTM aims to support all City departments as they use and process online signatures during the COVID-19 emergency and beyond. 
 
 This guidance outlines: 
 
@@ -18,8 +18,8 @@ This guidance outlines:
 
 ## Goals of this guidance
 
-* Support departments on how they can use electronic and digital signatures during the COVID-19 emergency. 
-*  Invite departments to give feedback on a pilot electronic signatures tool during the COVID-19 emergency, and help them with accessing it if they are not yet using one.  
+* Support departments as they use electronic and digital signatures during the COVID-19 emergency. 
+* Invite departments to give feedback on a pilot electronic signatures tool during the COVID-19 emergency, and help them with accessing it if they are not yet using one.  
 * Enable the City to move more services and transactions online to support social distancing and business efficiency during the COVID-19 emergency. 
 * Invite departments that have used digital signatures to share what has and has not worked for them. 
 
@@ -33,5 +33,5 @@ This guidance outlines:
 
 ## Contact and questions
 
-Contact CTM if your department is not yet using a digital signatures tool. CTM is vetting a pilot digital signatures tool with a limited number of subscriptions to offer for other departments in summer 2020. CTM can also help departments determine the right tool or signature method for their transactions. [Use this form to sign up for more information.](https://airtable.com/shrVQHPwHSZM3ZhTa)
+Contact CTM if your department is not yet using a digital signatures tool. CTM is vetting a pilot digital signatures tool with a limited number of subscriptions to offer for other departments in summer 2020. We can also help departments determine the right tool or signature method for their transactions. [Sign up for more information](https://airtable.com/shrVQHPwHSZM3ZhTa), and we'll contact you with next steps. 
 
