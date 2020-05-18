@@ -1,10 +1,10 @@
 # Using digital signatures for more complex transactions
 
-Higher-complexity transactions usually call for a “digital signature” -- a more rigorous form of an electronic signature with added technology that does the following: 
+Higher-complexity transactions usually call for a digital signature, a type of electronic signature with added technology that provides the following: 
 
-* Verifies the person signing is who they say they are \(“authentication”\) 
-* Ensures that the document does not change after being signed \(“integrity”\)  
-* Keeps a history of all activity on the transaction \(“audit trail”\) 
+* Authentication — Verifies the person signing is who they say they are 
+* Integrity — Ensures that the document does not change after being signed 
+* Audit trail — Keeps a history of all activity on the transaction 
 
 ### Example transactions that need digital signatures
 

@@ -1,16 +1,16 @@
 # Requirements when using any type of electronic signature
 
-Regardless of whether you are using a less formal electronic signature or a more formal digital signature, there are several steps you need to take to keep record of the transaction, maintain the validity of the transaction, and make sure the transaction is accessible for the person signing.
+Regardless of whether you are using a less formal electronic signature or a more formal digital signature, there are several steps you need to take to keep a record of the transaction, maintain the validity of the transaction, and make sure the transaction is accessible for the person signing.
 
-### 1.Determine how you will keep an electronically-signed record. 
+### 1. Determine how you will keep an electronically signed record. 
 
-Review your department’s record retention schedule to determine how long a record must be kept. You still need to comply with this schedule. An electronically-signed record must be kept for the same length of time as a paper record signed using a wet-ink signature. If you are using electronic or digital signatures technology, make sure it can export backups of the signed transactions. 
+Review your department’s record retention schedule to determine how long a record must be kept. You still need to comply with this schedule. An electronically signed record must be kept for the same length of time as a paper record signed using a wet-ink signature. If you are using an electronic or digital signatures tool, make sure it can export backups of the signed transactions. 
 
-### 2. Determine what other records you may need to keep with the electronically-signed record to provide context. 
+### 2. Determine what other records you may need to keep with the electronically signed record to provide context. 
 
-More sophisticated digital signature tools have features to verify the identity of the signer \(like email verification or sending a code to the signer’s mobile phone\). If your tool does not verify the identity of the signer, then determine what other records you need to keep that will provide evidence that the signature is authentic and that the signer intended to sign. The City needs to keep these contextual records with the electronically-signed document in case the City needs to prove the authenticity of the signature and the validity of the signed content.  
+More sophisticated digital signature tools have features to verify the identity of the signer, like email verification or sending a code to the signer’s mobile phone. If your tool does not verify the identity of the signer, then determine what other records you need to keep that will provide evidence that the signature is authentic and that the signer intended to sign. The City needs to keep these contextual records with the electronically signed document in case the City needs to prove the authenticity of the signature and the validity of the signed content.  
 
-### 3. For external transactions, get the other party’s agreement to use an electronic or digital signatures to sign a document. 
+### 3. For external transactions, get the other party’s agreement to use an electronic or digital signature to sign a document. 
 
 Both parties to a transaction must agree to use electronic signatures or conduct  business by electronic means. A party to the transaction can opt out of using electronic signatures if they want. A person’s agreement to conduct one transaction electronically does not equal that person’s agreement to conduct all transactions electronically. Get all parties’ agreement to use electronic signatures each time, for each transaction. 
 

@@ -13,7 +13,7 @@ For some transactions, the law does not provide a framework for the use of elect
 * Product recall notices affecting health or safety 
 * Documents required by law to accompany the transportation of hazardous materials 
 
-**Yes, my transaction involves one of the items in the list above**. The law might require a paper-and-ink signature on this transaction, and so you might not be able to use electronic signatures. Contact the Law Department to understand the signature requirements for your transaction.
+**Yes, my transaction involves one of the items in the list above**. The law might require a paper-and-ink signature on this transaction, and you might not be able to use electronic signatures. Contact the Law Department to understand the signature requirements for your transaction.
 
 **No, my transaction does not involve one of the items in the list above**. You might be able to use electronic signatures. [Learn what type of electronic signature you need. ](which-type-of-electronic-signature-do-you-need.md)
 

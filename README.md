@@ -33,5 +33,5 @@ This guidance outlines:
 
 ## Contact and questions
 
-Contact CTM if your department is not yet using a digital signatures tool. CTM is vetting a pilot digital signatures tool with a limited number of subscriptions to offer for other departments in summer 2020. We can also help departments determine the right tool or signature method for their transactions. [Sign up for more information](https://airtable.com/shrVQHPwHSZM3ZhTa), and we'll contact you with next steps. 
+Contact CTM if your department is not yet using an electronic signatures tool. CTM is vetting a pilot digital signatures tool with a limited number of subscriptions to offer for other departments in summer 2020. We can also help departments determine the right tool or signature method for their transactions. [Sign up for more information](https://airtable.com/shrVQHPwHSZM3ZhTa), and we'll contact you with next steps. 
 
