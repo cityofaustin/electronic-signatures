@@ -1,6 +1,10 @@
 # Legal references, rules, and resources
 
-Communications and Technology Management and the Law Department developed this guidance in keeping with these laws and policies:
+Communications and Technology Management and the Law Department developed this guidance in keeping with relevant law and policy governing electronic signatures. The list below includes some, but not all, of the relevant laws and policies.  
+
+{% hint style="info" %}
+For more information on how law affects your transactions, contact your department's Law Department representative.
+{% endhint %}
 
 ### Federal law
 
@@ -13,6 +17,13 @@ The [Electronic Signatures in Global and National Commerce \(ESIGN\), 15 U.S. Co
 
 ### City of Austin policy
 
-* Signature Authority: A department’s use of online signatures must comply with City of Austin [Administrative Bulletin 03-01 – Delegation of the City Manager’s Signature Authority](https://cityofaustin.sharepoint.com/:b:/s/ElectronicDigitalSignatures/EXiMYZaS7aZOtPK2SkJ4B-cBOcJRDCEbMvt5utxH4atJsA?e=WtbrwH), which governs which positions have signature authority for different types of transactions.  
-* Records retention: A department’s use of electronic records must still comply with their record retention schedule.  
+* Signature Authority: A department’s use of online signatures must comply with City of Austin Administrative Bulletin 03-01 – Delegation of the City Manager’s Signature Authority, which governs which positions have signature authority for different types of transactions.  
+
+{% file src=".gitbook/assets/administrative-bulletin-03-01-delegation-of-city-managers-signature-authority.pdf" caption="City of Austin Administrative Bulletin 03-01 – Delegation of the City Manager’s Signature Authority" %}
+
+* Records retention: A department’s use of electronic records must still comply with their Record Control Schedule. 
+
+{% hint style="info" %}
+Contact your department's Records Management Team to learn more about your department's record retention policies.
+{% endhint %}
 

@@ -22,3 +22,9 @@ Less complex transactions can usually use an electronic signature, a text or a s
 **Electronic signatures are generally not tamper-proof**. These methods don't ensure that the document remains unchanged after it is signed. We can address this with extra documentation. In addition to the signature, ask the signer to send an email that says they intend to sign electronically. This documentation will serve as the audit trail for low-risk transactions. 
 {% endhint %}
 
+### Tips on following laws and organizational policies \(e.g., records retention\) when using these tools
+
+{% page-ref page="requirements-when-using-any-type-of-electronic-signature.md" %}
+
+
+

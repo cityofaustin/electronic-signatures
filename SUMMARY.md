@@ -10,4 +10,5 @@
   * [Requirements when using any type of electronic signature](how-to-use-electronic-signatures/requirements-when-using-any-type-of-electronic-signature.md)
 * [Legal references, rules, and resources](legal-references-rules-and-resources.md)
 * [Definitions](definitions.md)
+* [Contact and feedback](contact-and-feedback.md)
 

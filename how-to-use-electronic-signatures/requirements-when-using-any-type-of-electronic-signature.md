@@ -1,10 +1,14 @@
+---
+description: Steps to take to follow laws and organizational policies in using these tools
+---
+
 # Requirements when using any type of electronic signature
 
 Regardless of whether you are using a less formal electronic signature or a more formal digital signature, there are several steps you need to take to keep a record of the transaction, maintain the validity of the transaction, and make sure the transaction is accessible for the person signing.
 
 ### 1. Determine how you will keep an electronically signed record. 
 
-Review your department’s record retention schedule to determine how long a record must be kept. You still need to comply with this schedule. An electronically signed record must be kept for the same length of time as a paper record signed using a wet-ink signature. If you are using an electronic or digital signatures tool, make sure it can export backups of the signed transactions. 
+Review your department’s Records Control Schedule to determine how long a record must be kept. You still need to comply with this schedule. An electronically signed record must be kept for the same length of time as a paper record signed using a wet-ink signature. If you are using an electronic or digital signatures tool, make sure it can export backups of the signed transactions. 
 
 ### 2. Determine what other records you may need to keep with the electronically signed record to provide context. 
 

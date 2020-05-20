@@ -1,15 +1,24 @@
 # Overview
 
-Communications and Technology Management \(CTM\) developed this guidance to help City of Austin departments use electronic and digital signatures in internal and community-facing services during the COVID-19 emergency. In most instances, electronic signatures are legally enforceable, so it's perfectly legal to use these tools. While there is currently no City policy that addresses electronic signatures, the law does not require adoption of a policy in order to use electronic signatures. With your feedback, we'll develop a policy to follow this guidance at a later date. 
+Communications and Technology Management \(CTM\) and the Law Department developed this guidance to help City of Austin departments use electronic and digital signatures in internal and community-facing services. This guidance is most immediately relevant to the COVID-19 emergency, but also applies beyond, as departments offer more services online for Austin residents. 
 
-No matter what else is going on, offering multiple ways to access services, including online, helps make services more accessible for Austin residents. But during the current COVID-19 emergency, departments need to offer services and transactions online as much as possible. Some departments have already adopted electronic or digital signatures, while others haven’t, yet. CTM aims to support all City departments as they use and process online signatures during the COVID-19 emergency and beyond. 
+Some departments have already adopted electronic or digital signatures, while others haven’t, yet. CTM aims to support all City departments as they use and process electronic signatures during the COVID-19 emergency and beyond. 
 
 This guidance outlines: 
 
 * The differences between electronic signatures and digital signatures 
 * A breakdown of which type of electronic signature tool supports different types of transactions 
 * How to follow laws and organizational policies \(e.g., records retention\) when using these tools 
-* How to get advice and help with using electronic and digital signatures
+* How to get advice and help using electronic and digital signatures
+* How to access a CTM pilot of a digital signatures tool 
+
+## We need your feedback and questions
+
+We want to add to and clarify this guidance over time. [Use our contact form](https://airtable.com/shrVQHPwHSZM3ZhTa) to ask lingering questions, give feedback on this guidance, and point out issues that we have not yet addressed.
+
+## Digital signature pilot tool coming soon
+
+CTM is vetting a pilot digital signatures tool with a limited number of subscriptions to offer for other departments in summer 2020. [Sign up for more information](https://airtable.com/shrVQHPwHSZM3ZhTa), and we'll contact you with next steps. 
 
 ## Intended audience
 
@@ -30,8 +39,4 @@ This guidance outlines:
 * Affect any laws that require paper documents or wet-ink signatures. 
 * Prevail over any administrative bulletin.  
 * Suggest a process that ignores a department’s local record retention schedule.  
-
-## Contact and questions
-
-Contact CTM if your department is not yet using an electronic signatures tool. CTM is vetting a pilot digital signatures tool with a limited number of subscriptions to offer for other departments in summer 2020. We can also help departments determine the right tool or signature method for their transactions. [Sign up for more information](https://airtable.com/shrVQHPwHSZM3ZhTa), and we'll contact you with next steps. 
 
