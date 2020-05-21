@@ -1,6 +1,6 @@
 # Overview
 
-Communications and Technology Management \(CTM\) developed this guidance to help City of Austin departments use electronic and digital signatures in internal and community-facing services. This guidance is most immediately relevant to the COVID-19 emergency, but also applies beyond, as departments offer more services online for Austin residents. 
+Communications and Technology Management \(CTM\) and the Law Department developed this guidance to help City of Austin departments use electronic and digital signatures in internal and community-facing services. This guidance is most immediately relevant to the COVID-19 emergency, but also applies beyond, as departments offer more services online for Austin residents. 
 
 Some departments have already adopted electronic or digital signatures, while others haven’t, yet. CTM aims to support all City departments as they use and process electronic signatures during the COVID-19 emergency and beyond. 
 
@@ -45,5 +45,4 @@ CTM is vetting a pilot digital signatures tool with a limited number of subscrip
 * Affect any laws that require paper documents or wet-ink signatures. 
 * Prevail over any administrative bulletin.  
 * Suggest a process that ignores a department’s local record retention schedule.  
-* Replace reviewing the use of electronic signatures with your department's attorney in the Law Department. 
 

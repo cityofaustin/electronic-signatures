@@ -2,8 +2,8 @@
 
 Different types of services and transactions need different levels of authentication and verification, depending on the risk and importance of the transaction. Electronic signatures tools fall into two general categories:  
 
-* **Electronic signatures**: A way to sign something online, but without necessarily verifying the identity of the signer or having an audit trail. These include scanned images of signatures and hand-drawn signatures. These are less formal, usually easier and cheaper, but less secure—more appropriate for lower-risk services and transactions. [Read the legal definition.](../definitions.md#electronic-signature)
-* **Digital signatures**: A type of electronic signature that includes more levels of authentication, verification, audit trails, and security. These are specifically for higher-risk transactions that need more documentation and verification. [Read the legal definition.](../definitions.md#digital-signature) 
+* **Electronic signatures**: A way to sign something online, but without necessarily verifying the identity of the signer or having an audit trail. These include scanned images of signatures and hand-drawn signatures. These are less formal, usually easier and cheaper, but less secure—more appropriate for lower-risk services and transactions.  
+* **Digital signatures**: A type of electronic signature that includes more levels of authentication, verification, audit trails, and security. These are specifically for higher-risk transactions that need more documentation and verification. 
 
 Find out which one you need below. 
 

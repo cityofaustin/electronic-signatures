@@ -16,7 +16,7 @@ There are different types of electronic signatures. This guidance uses the term 
 
 ### Digital signature
 
-Defined in Government Code § 2054.060\(e\)\(1\) as "an electronic identifier intended by the person using it to have the same force and effect as the use of a manual signature." 
+Defined in Texas Government Code § 2054.060\(e\)\(1\) as "an electronic identifier intended by the person using it to have the same force and effect as the use of a manual signature." 
 
 A digital signature is a type of electronic signature that provides higher levels of security and universal acceptance than many of the ways to complete an electronic signature. It includes technology that verifies that:
 
