@@ -6,12 +6,14 @@ For some transactions, the law does not provide a framework for the use of elect
 
 * Wills, codicils, and testamentary trusts 
 * Documents relating to adoption, divorce, and other family law matters 
-* Court orders, notices, and other court documents such as pleadings or motions 
+* Court orders, notices, and other court documents such as pleadings or motions \(unless the judge of that court accepts electronic signatures in writing\)
 * Notices of cancellation or termination of utility services 
 * Notices of default, repossession, foreclosure, or eviction 
 * Notices of cancellation or termination of health or life insurance benefits 
 * Product recall notices affecting health or safety 
 * Documents required by law to accompany the transportation of hazardous materials 
+* A signatory to a contract or document that does not agree to use electronic signatures
+* A document that must be filed with an entity that does not allow for electronic signatures \(e.g., deed, easement, or other property instrument that must be filed or recorded with Travis County\)
 
 **No, my transaction does not involve one of the items in the list above**. You might be able to use electronic signatures. [Learn what type of electronic signature you need. ](which-type-of-electronic-signature-do-you-need.md)\*\*\*\*
 
