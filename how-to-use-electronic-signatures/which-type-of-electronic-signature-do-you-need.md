@@ -28,5 +28,9 @@ Find out which one you need below.
 
 **Yes, my transaction involves some or all of these conditions**. Your transaction is more complex, and so you likely need a digital signature tool. [Learn how to use digital signatures](using-digital-signatures-for-more-complex-transactions.md).
 
+{% page-ref page="using-digital-signatures-for-more-complex-transactions.md" %}
+
 **No, my transaction does not involve any of these conditions**. Your transaction is less complex, and so you might be able to use a more informal electronic signature. [Learn how to use electronic signatures](using-electronic-signatures-for-less-complex-transactions.md).
+
+{% page-ref page="using-electronic-signatures-for-less-complex-transactions.md" %}
 

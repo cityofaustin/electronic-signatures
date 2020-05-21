@@ -15,5 +15,7 @@ For some transactions, the law does not provide a framework for the use of elect
 
 **No, my transaction does not involve one of the items in the list above**. You might be able to use electronic signatures. [Learn what type of electronic signature you need. ](which-type-of-electronic-signature-do-you-need.md)\*\*\*\*
 
+{% page-ref page="which-type-of-electronic-signature-do-you-need.md" %}
+
 **Yes, my transaction involves one of the items in the list above**. The law might require a paper-and-ink signature on this transaction, and you might not be able to use electronic signatures. Contact your department's Law Department representative to understand the signature requirements for your transaction.
 

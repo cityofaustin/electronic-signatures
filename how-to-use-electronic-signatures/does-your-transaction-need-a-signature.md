@@ -15,6 +15,8 @@ If a service or transaction does not require a signature, the simplest solution 
 **If your transaction needs a signature**:   
 [Learn whether the law requires that signature to be paper-and-ink](does-law-require-a-paper-and-ink-signature.md).
 
+{% page-ref page="does-law-require-a-paper-and-ink-signature.md" %}
+
 **If your transaction does not require a signature**:   
 You may stop reading! You might consider removing the requirement for a signature. 
 
