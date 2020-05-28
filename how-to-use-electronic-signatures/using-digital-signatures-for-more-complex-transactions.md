@@ -4,7 +4,7 @@ Higher-complexity transactions usually call for a digital signature, a type of e
 
 * Verifies the person signing is who they say they are \("authentication"\)
 * Ensures that the document does not change after being signed \("integrity"\)
-* Keeps a history of all activity on the transaction \("audit trail"
+* Keeps a history of all activity on the transaction \("audit trail"\)
 
 ### Example transactions that need digital signatures
 
@@ -21,7 +21,7 @@ Higher-complexity transactions usually call for a digital signature, a type of e
 
 ### Example technologies or methods to use 
 
-There are many digital signature tools on the market, such as DocuSign and Adobe Sign.  
+There are many cloud-based software tools on the market, such as DocuSign and Adobe Sign.  
 
 {% hint style="info" %}
 **Contact CTM if your department is interested in implementing a digital signature tool.** CTM is vetting a pilot digital signatures tool with a limited number of subscriptions to offer for other departments in summer 2020. [Sign up for more information](https://airtable.com/shrVQHPwHSZM3ZhTa), and we'll contact you with next steps. 
