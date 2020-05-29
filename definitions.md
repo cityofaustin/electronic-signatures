@@ -6,11 +6,9 @@
 
 ### Electronic signature
 
-Defined in Texas Business & Commerce Code § 322.002\(8\) as “an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.” This is a general term that covers the multiple different types of electronic signatures, including basic electronic signatures and digital signatures. 
+Defined in Texas Business & Commerce Code § 322.002\(8\) as “an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.” 
 
-### Basic electronic signature
-
-A type of electronic signature that is usually informal, cheap, and easy to implement, but is not tamper-proof. For the purpose of this guidance, a basic electronic signature: 
+There are different types of electronic signatures. This guidance uses the term to mean a basic electronic signature, which: 
 
 * Does not include technology to verify the identity of the person signing.
 * Does not detect or protect against changes in the document after the signature.

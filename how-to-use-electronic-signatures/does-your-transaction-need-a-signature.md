@@ -21,5 +21,5 @@ If a service or transaction does not require a signature, the simplest solution 
 You may stop reading! You might consider removing the requirement for a signature. 
 
 **Don't know whether your transaction requires a signature?**   
-Contact your department's Law Department representative. 
+Contact your department's Law Department representative. Talk with your supervisor or department leadership if you do not know who your Law Department representative is.
 

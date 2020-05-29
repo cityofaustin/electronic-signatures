@@ -10,7 +10,15 @@ Regardless of which type of electronic signature you are using, there are severa
 
 ### 1. Determine how you will keep an electronically signed record. 
 
-Review your department’s Records Control Schedule to determine how long a record must be kept. You still need to comply with this schedule. An electronically signed record must be kept for the same length of time as a paper record signed using a wet-ink signature. If you are using an electronic tool, make sure it can export backups of the signed transactions. 
+Many electronic signature tools will store electronically signed documents. Records rules allow us to save records of these signed documents on a cloud-based tool, as long as the tool:
+
+* Meets the City's records and security requirements
+* Stores an accurate version of the final document and all its information
+* Allows you to access and export the document at a future date
+
+You can also consider exporting a signed document and saving it to a platform managed by the City \(for example, Office 365 or your network drive\).
+
+Regardless of where you store the electronic record, you should review your department’s Records Control Schedule to determine how long to keep the record. You must keep an electronically signed record for the same length of time as a paper record signed using a wet-ink signature. 
 
 ### 2. Determine what other records you may need to keep with the electronically signed record to provide context. 
 

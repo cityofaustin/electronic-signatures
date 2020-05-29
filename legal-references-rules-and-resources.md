@@ -3,7 +3,7 @@
 Communications and Technology Management and the Law Department developed this guidance in keeping with relevant law and policy governing electronic signatures. The list below includes some, but not all, of the relevant laws and policies.  
 
 {% hint style="info" %}
-For more information on how law affects your transactions, contact your department's Law Department representative.
+For more information on how law affects your transactions, contact your department's Law Department representative. Talk with your supervisor or department leadership if you do not know who your Law Department representative is. 
 {% endhint %}
 
 ### Federal law

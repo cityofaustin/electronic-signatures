@@ -6,16 +6,18 @@ For some transactions, the law does not provide a framework for the use of elect
 
 * Wills, codicils, and testamentary trusts 
 * Documents relating to adoption, divorce, and other family law matters 
-* Court orders, notices, and other court documents such as pleadings or motions 
+* Court orders, notices, and other court documents such as pleadings or motions \(unless the judge of that court accepts electronic signatures in writing\)
 * Notices of cancellation or termination of utility services 
 * Notices of default, repossession, foreclosure, or eviction 
 * Notices of cancellation or termination of health or life insurance benefits 
 * Product recall notices affecting health or safety 
 * Documents required by law to accompany the transportation of hazardous materials 
+* Someone signing a document that does **not** agree to use electronic signatures
+* Filing a document with an entity that does **not** allow for electronic signatures \(for example, deed, easement, or other property instrument that must be filed or recorded with Travis County\)
 
 **No, my transaction does not involve one of the items in the list above**. You might be able to use electronic signatures. [Learn what type of electronic signature you need. ](which-type-of-electronic-signature-do-you-need.md)\*\*\*\*
 
 {% page-ref page="which-type-of-electronic-signature-do-you-need.md" %}
 
-**Yes, my transaction involves one of the items in the list above**. The law might require a paper-and-ink signature on this transaction, and you might not be able to use electronic signatures. Contact your department's Law Department representative to understand the signature requirements for your transaction.
+**Yes, my transaction involves one of the items in the list above**. The law might require a paper-and-ink signature on this transaction, and you might not be able to use electronic signatures. Contact your department's Law Department representative to understand the signature requirements for your transaction. Talk with your supervisor or department leadership if you do not know who your Law Department representative is. 
 

@@ -12,8 +12,8 @@ Some departments have already adopted electronic or digital signatures, while ot
 * How to get advice and help using electronic signatures
 * How to access a CTM pilot of a digital signatures tool 
 
-{% hint style="info" %}
-**We need your feedback and questions!** We want to add to and clarify this guidance over time. [Use our contact form](https://airtable.com/shrVQHPwHSZM3ZhTa) to ask lingering questions, give feedback on this guidance, and point out issues that we have not yet addressed.
+{% hint style="warning" %}
+**This is a work-in-progress -- please share your feedback and questions!** We want to add to and clarify this guidance over time. [Use our contact form](https://airtable.com/shrVQHPwHSZM3ZhTa) to ask lingering questions, give feedback on this guidance, and point out issues that we have not yet addressed.
 {% endhint %}
 
 ### Digital signature pilot tool coming soon
