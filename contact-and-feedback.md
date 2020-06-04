@@ -1,8 +1,8 @@
 # Contact and feedback
 
-### For questions, feedback, and interest in the pilot electronic signatures tool
+### For questions or feedback on this guidance
 
-[Submit your questions or interest using our contact form](https://airtable.com/shrVQHPwHSZM3ZhTa), and we will follow up with you. 
+[Contact us using this form](https://bit.ly/esignature-questions%20), and we will follow up with you. 
 
 ### Email
 

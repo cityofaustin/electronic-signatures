@@ -1,14 +1,15 @@
 # Table of contents
 
 * [City of Austin interim guidance on electronic signatures](README.md)
-* [How to use electronic signatures](how-to-use-electronic-signatures/README.md)
-  * [Does your transaction need a signature?](how-to-use-electronic-signatures/does-your-transaction-need-a-signature.md)
-  * [Does law require a paper-and-ink signature?](how-to-use-electronic-signatures/does-law-require-a-paper-and-ink-signature.md)
-  * [Which type of electronic signature do you need?](how-to-use-electronic-signatures/which-type-of-electronic-signature-do-you-need.md)
-  * [Using digital signatures for more complex transactions](how-to-use-electronic-signatures/using-digital-signatures-for-more-complex-transactions.md)
-  * [Using basic electronic signatures for less complex transactions](how-to-use-electronic-signatures/using-electronic-signatures-for-less-complex-transactions.md)
-  * [Requirements when using any type of electronic signature](how-to-use-electronic-signatures/requirements-when-using-any-type-of-electronic-signature.md)
-* [Legal references, rules, and resources](legal-references-rules-and-resources.md)
+* [How to use electronic signatures](using-e-signatures/README.md)
+  * [Does your transaction need a signature?](using-e-signatures/signature-required.md)
+  * [Does law require a paper-and-ink signature?](using-e-signatures/paper-and-ink.md)
+  * [Which type of electronic signature do you need?](using-e-signatures/e-signature-types.md)
+  * [Using digital signatures for more complex transactions](using-e-signatures/digital-signatures.md)
+  * [Using basic electronic signatures for less complex transactions](using-e-signatures/basic-e-signatures.md)
+  * [Requirements when using any type of electronic signature](using-e-signatures/universal-requirements.md)
+* [Access CTM's pilot electronic signature tool](e-signature-pilot.md)
+* [Legal references, rules, and resources](legal-references.md)
 * [Definitions](definitions.md)
 * [Contact and feedback](contact-and-feedback.md)
 
