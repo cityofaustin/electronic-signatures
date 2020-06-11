@@ -14,11 +14,11 @@ In parallel with this pilot phase, CTM is planning for a longer term, citywide s
 
 If you have additional questions about the guidance, [contact our team](https://bit.ly/esignature-questions%20). 
 
-#### 2. Submit a request to the CTM Service Desk. 
+#### 2. Submit a [request to the CTM Service Desk](https://atx.service-now.com/sp?id=sc_cat_item&sys_id=8d7002addbc74810e2f1121d139619cd&sysparm_category=4cd27231dbae3b805b03f482ba961906). 
 
-Request access to the pilot electronic signature tool using this direct link. 
+Request access to the pilot electronic signature tool with a [ticket to the CTM Service Desk](https://atx.service-now.com/sp?id=sc_cat_item&sys_id=8d7002addbc74810e2f1121d139619cd&sysparm_category=4cd27231dbae3b805b03f482ba961906). Check the box next to "Adobe Sign".
 
-\[LINK COMING SOON\]
+![Image of a service request with &quot;Adobe Sign&quot; checked](.gitbook/assets/screen-shot-2020-06-11-at-10.38.59-am.png)
 
 What to expect when you submit a request:
 
