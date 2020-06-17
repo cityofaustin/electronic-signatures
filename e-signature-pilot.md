@@ -1,6 +1,6 @@
 # Access CTM's pilot electronic signature tool
 
-CTM is offering a limited subscription to an electronic signature tool for City departments’ use. The pilot tool is part of an existing CTM subscription and is available at likely no-cost to departments. 
+CTM is offering a limited subscription to an electronic signature tool for City departments’ use. The pilot tool is part of an existing CTM subscription and is available at likely no-cost to departments.
 
 Departments are not required to use CTM's pilot platform for electronic signatures. Those that have begun using a platform already can continue to do so, along with reviewing the guidance on this site.
 
@@ -22,7 +22,7 @@ Request access to the pilot electronic signature tool with a [ticket to the CTM 
 
 What to expect when you submit a request:
 
-* **Cost and billing**: Using the pilot tool will likely be no-cost for your department, though we still need to collect your FDU in case of overages. CTM purchased a subscription to this pilot tool that will likely cover most of departments' needs. 
+* **Cost and billing**: CTM purchased a subscription to this pilot tool that will likely cover most of departments' needs over the next six months with no new costs to departments. We still need to collect your funding code \(FDU\) as part of the request in case of overages.
 * **Manager approval**: The CTM Service Desk will request manager approval for purchase \(even though this is likely no-cost for your department\). 
 
 #### 3. Once approved, the CTM Service Desk will follow up to share instructions to activate your account. 
