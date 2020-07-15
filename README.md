@@ -9,7 +9,7 @@ Some departments have already adopted electronic or digital signatures, while ot
 * Learn about the differences between basic electronic signatures and digital signatures, and which tools support different types of transactions 
 * Understand how to follow laws and organizational policies \(e.g., records retention\) when using these tools 
 * Get advice and help using electronic signatures
-* Access a CTM pilot of an electronic signatures tool 
+* Request access to CTM's electronic signatures tool 
 
 {% hint style="warning" %}
 **This is a work-in-progress -- please share your feedback and questions!** We want to add to and clarify this guidance over time. [Use our contact form](https://bit.ly/esignature-questions) to ask lingering questions, give feedback on this guidance, and point out issues that we have not yet addressed.
@@ -29,7 +29,7 @@ Some departments have already adopted electronic or digital signatures, while ot
 #### Goals of this guidance
 
 * Support departments as they use electronic and digital signatures during the COVID-19 emergency. 
-* Invite departments to give feedback on a pilot electronic signatures tool during the COVID-19 emergency, and help them with accessing it if they are not yet using one.  
+* Invite departments to give feedback on an electronic signatures tool during the COVID-19 emergency, and help them with accessing it if they are not yet using one.  
 * Help the City to move more services and transactions online to support social distancing and business efficiency during the COVID-19 emergency. 
 * Invite departments that have used digital signatures to share what has and has not worked for them. 
 

@@ -23,11 +23,11 @@ Higher-complexity transactions usually call for a digital signature, a type of e
 
 There are many cloud-based software tools on the market, such as DocuSign and Adobe Sign.  
 
-### Do you need a digital signatures tool?
+### Do you need an electronic signatures tool?
 
-[Learn how to access CTM's pilot tool](../e-signature-pilot.md) -- which is available to departments at likely no-cost. 
+[Learn how to access CTM's tool](../e-signature-tool.md).  
 
-{% page-ref page="../e-signature-pilot.md" %}
+{% page-ref page="../e-signature-tool.md" %}
 
 ### Requirements for electronic signatures, regardless of tool
 

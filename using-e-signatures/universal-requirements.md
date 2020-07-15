@@ -51,7 +51,7 @@ Moving to online-only transactions can exclude residents without access to home 
 
 ## Do you need an electronic signatures tool?
 
-[Learn how to access CTM's pilot tool](../e-signature-pilot.md) -- which is available to departments at likely no-cost. 
+[Learn how to access CTM's tool](../e-signature-tool.md). 
 
-{% page-ref page="../e-signature-pilot.md" %}
+{% page-ref page="../e-signature-tool.md" %}
 

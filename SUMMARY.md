@@ -8,7 +8,7 @@
   * [Using digital signatures for more complex transactions](using-e-signatures/digital-signatures.md)
   * [Using basic electronic signatures for less complex transactions](using-e-signatures/basic-e-signatures.md)
   * [Requirements when using any type of electronic signature](using-e-signatures/universal-requirements.md)
-* [Access CTM's pilot electronic signature tool](e-signature-pilot.md)
+* [Access CTM's electronic signature tool](e-signature-tool.md)
 * [Legal references, rules, and resources](legal-references.md)
 * [Definitions](definitions.md)
 * [Contact and feedback](contact-and-feedback.md)
