@@ -4,12 +4,19 @@ If a service or transaction does not require a signature, the simplest solution 
 
 * Contracts
 * Transactions and documents listed in the City's policy on signature authority 
-* Documents mentioned in the City Code, or in any federal or state law.
+* Documents mentioned in the City Code, or in any federal or state law
+* Document listed in [Administrative Bulletin 03-01, “Delegation of City Manager’s Signature Authority”](../legal-references.md#city-of-austin-policy)
 * Documents that are important to whether a resident receives City services and could end up in court one day 
 * Documents where the person signing is waiving or preserving any rights
 
+Signatures may be required if the City Code, or any other law, rule, or policy, requires the document:
+
+* to be in writing
+* to be sent out by the City, department director, or another city staff member holding a specific office or title
+* to be sent out as notice of something
+
 {% hint style="info" %}
-**Talk to your department leadership if you have internal or inter-departmental transactions that require signatures.** Departments decide whether or not to collect signatures on many internal documents. If you have an internal document that your department requires another department to sign, you might ask your director whether this document really needs a signature, or whether you can document agreement without a signature, for example, with an email that confirms the other person's approval. 
+**Talk to your department leadership if you have internal or inter-departmental transactions that require signatures.** Departments decide whether or not to collect signatures on many internal documents. If you have an internal document that your department requires another department to sign, you might ask your director whether this document needs a signature, or whether you can document agreement without a signature, for example, with an email that confirms the other person's approval. 
 {% endhint %}
 
 **If your transaction needs a signature**:   

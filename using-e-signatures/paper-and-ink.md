@@ -13,7 +13,7 @@ For some transactions, the law does not provide a framework for the use of elect
 * Product recall notices affecting health or safety 
 * Documents required by law to accompany the transportation of hazardous materials 
 * Someone signing a document that does **not** agree to use electronic signatures
-* Filing a document with an entity that does **not** allow for electronic signatures \(for example, deed, easement, or other property instrument that must be filed or recorded with Travis County\)
+* Filing a document with an entity that does not accept electronic signatures on documents
 
 **No, my transaction does not involve one of the items in the list above**. You might be able to use electronic signatures. [Learn what type of electronic signature you need. ](e-signature-types.md)\*\*\*\*
 
